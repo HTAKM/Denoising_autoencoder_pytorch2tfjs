@@ -4,7 +4,7 @@ The overall process of such conversion can be summarized by:
 PyTorch -> ONNX -> Tensorflow -> Tensorflow.js
 I show this experiment just to tell you how I perform such action.
 
-# Pachage version
+# Package version
 
     python == 3.11.11
     numpy == 1.26.4
